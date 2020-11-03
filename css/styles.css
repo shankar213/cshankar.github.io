@@ -10133,3 +10133,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+ul{
+  list-style-position: outside;
+}
